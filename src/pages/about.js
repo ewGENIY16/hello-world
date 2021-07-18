@@ -1,5 +1,5 @@
 import React from 'react'
-import Loyaut from "../components/layout"
+import Loyaut from "./components/layout"
 
 export default function About() {
     return (
