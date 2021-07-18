@@ -1,15 +1,15 @@
 import React from 'react'
-import Loyaut from "../components/layout"
+import Loyaut from '../components/Layout'
 
 export default function About() {
     return (
-        <layout>
+        <Layout>
             <div>
                 <h1>About page</h1>
                 <p>Текст, текст, текст, текст</p>
                 <p>Текст, текст, текст, текст</p>
                 <p>Текст, текст, текст, текст</p>   
             </div>
-        </layout>
+        </Layout>
     )
 }
