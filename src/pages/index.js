@@ -3,7 +3,7 @@ import Loyaut from "../components/layout"
 
 export default function Home() {
   return (
-    <Layout>
+    <layout>
       <section>
         <div>
           <h2>design</h2>
@@ -11,6 +11,6 @@ export default function Home() {
           <p>UX designer & web developer based in Manchester.</p>
         </div>
       </section>
-    </Layout>
+    </layout>
   )
 }
