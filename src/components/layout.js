@@ -1,12 +1,12 @@
 import React from 'react'
 import Navbar from './navbar'
 
-export default function Layout({children}) {
+export default function Layout({ children }) {
     return (
         <div className="Layout">
             <Navbar />
             <div className="content">
-                {children}
+                { children }
             </div>
             <footer>
                 <p>Создано 2021 ewGENIY16</p>
