@@ -3,11 +3,11 @@ import Loyaut from "../../components/layout"
 
 export default function Projects() {
     return (
-        <layout>
+        <Layout>
             <div>
                 <h2>Портфолио</h2>
                 <h3>Проекты и созданные сайты</h3>
             </div>
-        </layout>
+        </Layout>
     )
 }
