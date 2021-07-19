@@ -6,9 +6,9 @@ export default function Home() {
     <Layout>
       <section>
         <div>
-          <h2>design</h2>
+          <h2>Design</h2>
           <h3>Develop & Deploy</h3>
-          <p>UX designer & web developer based in Manchester.</p>
+          <p>UX designer & Web developer based in Manchester.</p>
         </div>
       </section>
     </Layout>
