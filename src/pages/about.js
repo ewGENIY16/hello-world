@@ -1,4 +1,5 @@
 import React from 'react'
+import Layout from '../components/layout'
 
 export default function About() {
     return (
@@ -10,5 +11,5 @@ export default function About() {
                 <p>Текст, текст, текст, текст</p>   
             </div>
         </Layout>
-    )
+    )   
 }
