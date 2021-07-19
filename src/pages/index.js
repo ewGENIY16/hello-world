@@ -1,3 +1,4 @@
+import { Link } from 'gatsby'
 import React from 'react'
 import Layout from '../components/layout'
 import styles from '../styles/home.module.css'
@@ -10,6 +11,7 @@ export default function Home() {
           <h2>Design</h2>
           <h3>Develop & Deploy</h3>
           <p>UX designer & Web developer based in Manchester.</p>
+          <Link className={styles.btn} to="/projects">Мой Портфолио</Link>
         </div>
       </section>
     </Layout>
