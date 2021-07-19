@@ -1,5 +1,4 @@
 import React from 'react'
-import Loyaut from '../../components/Layout'
 
 export default function Projects() {
     return (
