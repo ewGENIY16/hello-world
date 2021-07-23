@@ -1,6 +1,7 @@
 import { Link } from 'gatsby'
 import React from 'react'
 import Layout from '../components/layout'
+import * as styles from '../styles/home.module.css'
 
 export default function Home() {
   return (
